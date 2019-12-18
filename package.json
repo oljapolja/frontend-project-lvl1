@@ -1,0 +1,22 @@
+{
+  "name": "brain_games",
+  "version": "1.0.0",
+  "description": "hexlet-project",
+  "main": "index.js",
+  "bin": {
+    "brainGames": "src/bin/brain-games.js"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oljapolja/frontend-project-lvl1.git"
+  },
+  "author": "oljapolja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oljapolja/frontend-project-lvl1/issues"
+  },
+  "homepage": "https://github.com/oljapolja/frontend-project-lvl1#readme"
+}
